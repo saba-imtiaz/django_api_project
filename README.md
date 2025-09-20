@@ -74,7 +74,7 @@ POST /api/books/create/
   "author": "Andrew Hunt",
   "published_year": 1999
 }
-```
+``
 
 **Response**
 
@@ -86,12 +86,10 @@ POST /api/books/create/
   "published_year": 1999
 }
 
-
 ## 📑 API Browsable Interface
 
 Django REST Framework provides a browsable API:
 Visit [http://127.0.0.1:8000/api/books/](http://127.0.0.1:8000/api/books/) in your browser to interact with the API.
-
 
 ## 🛠️ Tech Stack
 
